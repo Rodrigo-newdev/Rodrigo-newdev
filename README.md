@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rodrigo-newdev
+- 👋 Hi, I’m Rodrigo Martins (@Rodrigo-newdev)
 - 👀 I’m interested in learning programation
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I try to share my learnings and help new devs just like me
